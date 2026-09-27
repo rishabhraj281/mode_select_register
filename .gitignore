@@ -1,0 +1,14 @@
+*.fsdb
+*.fsdb.*
+novas.conf
+novas_dump.log
+novas.rc
+verdiLog/
+ucli.key
+simv
+simv.daidir/
+csrc/
+*.swp
+kdb.elab++/
+debug_dump/
+elabcomLog/
